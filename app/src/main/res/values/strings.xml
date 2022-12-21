@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NavView1</string>
+    <string name="notice_board">Notice Board</string>
+    <string name="study_material">Study Material</string>
+    <string name="mentor_mentee">Mentor-Mentee</string>
+    <string name="cdc_placement">CDC Placement</string>
+    <string name="cdc_internship">CDC Internship</string>
+    <string name="know_your_department">Know Your Department</string>
+    <string name="student_welfare_group">Student Welfare Group</string>
+    <string name="right_where_you_need_us">Right where you need us</string>
+    <string name="iit_kgp">IIT KGP</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="academic_calendar">Academic Calendar</string>
+    <string name="title">Title</string>
+    <string name="societies">Societies</string>
+    <string name="academic_info">Academic Info</string>
+</resources>
